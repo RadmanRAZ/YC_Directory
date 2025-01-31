@@ -131,6 +131,10 @@
         @apply size-[50px] rounded-full bg-black flex justify-center items-center !important;
     }
 
+    .search-btn-reset {
+        @apply size-[50px] rounded-full bg-primary flex justify-center items-center !important;
+    }
+
     /* startupcard */
     .startup-card {
         @apply bg-white border-[5px] border-black py-6 px-5 rounded-[22px] shadow-200 hover:border-primary transition-all duration-500 hover:shadow-300 hover:bg-primary-100;
